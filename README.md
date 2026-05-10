@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Ahan Mirza 👋
 
-<!--
-**BOxmAN0911/BOxmAN0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Student developer exploring technology, hardware, and creative ideas.
+🛠️ I enjoy building projects, experimenting with new concepts, and learning through hands-on work.
 
-Here are some ideas to get you started:
+## 🚀 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Development
+Hardware & Embedded Systems
+AI & Automation
+UI/UX Design
+Creative Tech Projects
+
+## 🔧 Currently Working On
+
+Experimental hardware concepts
+Personal projects & prototypes
+Improving development workflows
+Learning modern tools & technologies
+
+## 📚 Learning
+
+Python
+JavaScript
+Git & GitHub
+ESP32 / Arduino Basics
+Frontend Development
+
+## 🎯 Goals
+
+Build useful and creative products
+Combine hardware with software
+Keep learning and improving every day
+
+✨ Learning by building.
